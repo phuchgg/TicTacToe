@@ -1,6 +1,6 @@
-# Author: aqeelanwar
-# Created: 12 March,2020, 7:06 PM
-# Email: aqeel.anwar@gatech.edu
+# Author: Max
+# Created: 20 October,2020, 7:06 PM
+# Email: maximumz160@gmail.com
 
 from tkinter import *
 import numpy as np
